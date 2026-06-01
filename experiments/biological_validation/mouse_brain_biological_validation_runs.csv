@@ -1,0 +1,2 @@
+dataset,display,n_spots,n_domains,seed,epochs,elapsed_sec,peak_memory_mib
+mouse_brain_atac,Mouse brain ATAC,9215,10,101,80,34.743520736694336,57.04345703125

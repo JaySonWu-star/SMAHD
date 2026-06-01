@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+
+# Local environments
+.venv/
+venv/
+env/
+env_SMAHD/
+
+# Raw data and large generated artifacts
+data/
+*.h5ad
+*.h5
+*.loom
+*.npy
+*.npz
+*.pkl
+*.pt
+*.pth
+*.ckpt
+
+# Local run logs
+*.log
