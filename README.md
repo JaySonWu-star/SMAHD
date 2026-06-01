@@ -7,7 +7,7 @@ This repository contains the source code, tutorials, and reproducibility scripts
 ## Installation
 
 ```bash
-git clone https://github.com/Little-Eel/SMAHD.git
+git clone https://github.com/JaySonWu-star/SMAHD.git
 cd SMAHD
 conda create -n env_SMAHD python=3.8
 conda activate env_SMAHD
