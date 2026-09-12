@@ -1,0 +1,13 @@
+SMAHD
+Copyright (C) 2026 SMAHD contributors.
+
+SMAHD project code is licensed under the GNU General Public License,
+version 3 only (SPDX-License-Identifier: GPL-3.0-only).
+See LICENSE for the complete terms. The software is provided without warranty.
+
+This declaration covers contributions for which the SMAHD authors hold rights.
+It does not replace third-party copyright notices or change the licenses of
+external dependencies, data deposits, or separately identified third-party files.
+Retain applicable upstream notices when redistributing adapted code.
+Adapted components retain the license terms and attribution of their original
+projects. SMART is available at https://github.com/Xubin-s-Lab/SMART-main.
